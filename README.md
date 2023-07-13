@@ -11,3 +11,4 @@ Analisis dilakukan dalam 5 subbab yang memiliki kepentingan untuk dapat menjawab
 
 ## Kesimpulan dan Saran
 Kesimpulan berisi tentang hal-hal yang ditermukan dari masing-masing analisis dan jawaban atas pertanyaan penelitian yang sudah dibuat, sedangkan untuk saran, saran yang diberikan berdasarkan atas analisis yang dilakukan dan akan dibagi menjadi beberapa bagian sesuai dengan preferensi perusahaan.
+  
